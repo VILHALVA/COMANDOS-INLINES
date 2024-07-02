@@ -43,7 +43,6 @@ Este bot do Telegram é projetado para fornecer informações sobre diferentes l
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em muitas linguagens e tecnologias relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
 * [CURSO DE TELEGRAF](https://github.com/VILHALVA/CURSO-DE-TELEGRAF)
-* [CURSO DE MYSQL](https://github.com/VILHALVA/CURSO-DE-MYSQL)
 * [CURSO DE NODEJS](https://github.com/VILHALVA/CURSO-DE-NODEJS)
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
