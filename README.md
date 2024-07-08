@@ -21,8 +21,8 @@ Este bot do Telegram é projetado para fornecer informações sobre diferentes l
 
 ## EXECUTANDO O PROJETO:
 1. **Editar o código:**
-   - Certifique-se de substituir "seu_token_aqui" pelas informações corretas das suas credenciais em `CODIGO/.env`.
-
+   - Certifique-se de substituir "seu_token_aqui" pelas informações corretas das suas credenciais em `CODIGO/.env`, o qual pode ser obtido por meio do [@BotFather](https://t.me/BotFather).
+   
 2. **Instalando as Depêndencias:**
    - Para instalar as dependências listadas no arquivo "package.json", você pode usar o comando `npm install` no terminal. Certifique-se de estar no diretório do seu projeto onde o arquivo "package.json" está localizado (`CODIGO`). O npm irá ler o arquivo "package.json" e instalar todas as dependências listadas nele. 
 
